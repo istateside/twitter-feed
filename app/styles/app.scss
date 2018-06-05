@@ -1,0 +1,67 @@
+.twitter-feed {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.get-more {
+  padding: 10px;
+  border: 0;
+  background: lightgray;
+  color: white;
+  font-size: 20px;
+  width: 100%;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.tweet-card {
+  border: 2px solid darkgray;
+  border-radius: 4px;
+  padding: 10px;
+  display: flex;
+  margin-bottom: 20px;
+  max-width: 600px;
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  overflow: hidden;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.tweet-header {
+  display: flex;
+  align-items: baseline;
+}
+
+.full-name {
+  margin: 0 10px 0 0;
+  font-size: 24px;
+}
+
+.user-name {
+  font-size: 12px;
+  color: darkgray;
+  margin-right: 15px;
+}
+
+.tweet-time {
+  font-size: 12px;
+  color: gray;
+}
+
+.tweet-actions {
+  display: flex;
+  align-items: center;
+}
+
+.retweets-count, .favorites-count {
+  margin-left: 10px;
+}
+
+.favorites-icon {
+  margin-left: 20px;
+}
