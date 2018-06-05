@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" fill="#000000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-twitter-favorite</title>
+    <desc>Created with Sketch.</desc>
+    <g  stroke="none" stroke-width="1" fill="inherit" fill-rule="evenodd">
+        <g id="icon-twitter-favorite">            
+            <path d="M17.407,2 C15.344,2 13.07,3.09988817 12,5.51370152 C10.945,3.13920109 8.729,2.05591171 6.719,2.05591171 C2.965,2.05591171 1,5.17735764 1,8.25949064 C1,13.6706958 6.951,19.1482961 11.724,21.9272828 C11.903,22.0312437 12.137,22.0225075 12.306,21.9089368 C12.742,21.6136531 23,14.5976071 23,7.74230733 C23,3.97263501 20.187,2 17.407,2 Z" ></path>
+        </g>
+    </g>
+</svg>
